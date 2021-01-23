@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KeaneAcres/Test/_apis/build/status/brendankeane.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/KeaneAcres/Test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
